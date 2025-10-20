@@ -1,8 +1,6 @@
 # Hi, I’m Rhi 👩🏻‍💻✨
 
-I’m an aspiring data scientist with the heart of a visionary and the mind of a scientist.
-
-Currently completing a data science bootcamp with **Triple Ten**. I’m building a portfolio that blends **environmental science, astronomy, and research-driven exploration**—fields where I believe data has the power to uncover meaning, tell better stories, and drive responsible innovation.
+I’m an aspiring data scientist, a visionary at heart and an analyst by nature.
 
 I’m especially drawn to projects that combine data with purpose, whether that’s tracking climate change, mapping the cosmos, or making complex patterns easier to understand.
 
@@ -10,7 +8,7 @@ I’m especially drawn to projects that combine data with purpose, whether that�
 
 ## About Me
 
-- 🖥️ **Core Skills**: Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, Machine Learning (Supervised & Unsupervised), Deep Learning (CNNs), Data Visualization  
+- 🖥️ **Core Skills**: Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, Machine Learning (Supervised & Unsupervised), Deep Learning (CNNs), Data Visualization 
 - 📊 **Focus**: Data Science & Predictive Modeling  
 - 🌱 **Currently Exploring**: Computer Vision, Time Series Forecasting, and NLP  
 - 📍 **Location**: San Antonio, TX
@@ -43,39 +41,25 @@ I’m especially drawn to projects that combine data with purpose, whether that�
   Developed ML models to predict **oil well success rates** for smarter investment decisions.
 
 ---
-## Let’s Connect!
+## Let’s Connect 🤝
 
-<p align="center" style="margin-top: 1rem; margin-bottom: 1rem;">
-  <a href="mailto:rhiannon.filli@gmail.com" target="_blank">
-    <button style="padding: 10px 20px; margin: 5px; font-size: 16px; border-radius: 6px; border: none; background-color: #f4f4f4; color: #333; cursor: pointer;">
-      Email Me
-    </button>
-  </a>
+<div align="center">
 
-  <a href="https://www.linkedin.com/in/rhiannonfilli" target="_blank">
-    <button style="padding: 10px 20px; margin: 5px; font-size: 16px; border-radius: 6px; border: none; background-color: #f4f4f4; color: #333; cursor: pointer;">
-      LinkedIn
-    </button>
-  </a>
-</p>
+[![Email](https://img.shields.io/badge/Email-rhiannon.filli%40gmail.com-333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rhiannon.filli@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rhiannon_Filli-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rhiannonfilli)
+
+</div>
 
 ---
 
-## My Resume
+## My Resume 📄
 
-  <a href="/rhi_resume.pdf" download>
-    <button style="padding: 10px 20px; margin: 5px; font-size: 16px; border-radius: 6px; border: none; background-color: #f4f4f4; color: #333; cursor: pointer;">
-      Download Resume
-    </button>
-  </a>
+<div align="center">
 
----
+[![Resume](https://img.shields.io/badge/Download_Resume-PDF-4B8B3B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/rhicarmel/rhicarmel/main/rhi_resume.pdf)
 
-## GitHub Stats
-
-![Rhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhi-222&show_icons=true&theme=tokyonight-light&hide=prs&hide_border=true)
+</div>
 
 ---
-
 
 _Thanks for visiting – I’m always open to new opportunities, collaborations, and discoveries._ ✨
