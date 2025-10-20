@@ -1,21 +1,20 @@
-# Hi, I’m Rhi 👩🏻‍💻✨
 
+# Hi, I’m Rhi 👩🏻‍💻✨
 I’m an aspiring data scientist, a visionary at heart and an analyst by nature.
 
 I’m especially drawn to projects that combine data with purpose, whether that’s tracking climate change, mapping the cosmos, or making complex patterns easier to understand.
 
----
 
-## About Me
 
-- 🖥️ **Core Skills**: Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, Machine Learning (Supervised & Unsupervised), Deep Learning (CNNs), Data Visualization 
-- 📊 **Focus**: Data Science & Predictive Modeling  
-- 🌱 **Currently Exploring**: Computer Vision, Time Series Forecasting, and NLP  
-- 📍 **Location**: San Antonio, TX
+## 🌱 About Me
 
----
+- **Core Skills**: Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, Machine Learning (Supervised & Unsupervised), Deep Learning (CNNs), Data Visualization 
+- **Focus**: Data Science & Predictive Modeling  
+- **Currently Exploring**: Computer Vision, Time Series Forecasting, and NLP  
+- **Location**: San Antonio, TX
 
-## Tech Stack
+
+## 🧰 Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
@@ -27,9 +26,8 @@ I’m especially drawn to projects that combine data with purpose, whether that�
   <img src="https://img.shields.io/badge/SQL-00758f?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
----
 
-## Featured Projects
+## 🌟 Featured Projects
 
 - [📡 Telecom Churn Prediction](https://github.com/rhicarmel/telecom-churn-prediction)  
   Built predictive models to identify high-risk customers, achieving an **AUC-ROC score of 0.85**.
@@ -40,8 +38,7 @@ I’m especially drawn to projects that combine data with purpose, whether that�
 - [⛽ Oil Well Profitability Prediction](https://github.com/rhicarmel/oil-well-prediction)  
   Developed ML models to predict **oil well success rates** for smarter investment decisions.
 
----
-## Let’s Connect 🤝
+## 🤝 Let’s Connect
 
 <div align="center">
 
@@ -50,9 +47,8 @@ I’m especially drawn to projects that combine data with purpose, whether that�
 
 </div>
 
----
 
-## My Resume 📄
+## 📄 My Resume
 
 <div align="center">
 
@@ -60,6 +56,6 @@ I’m especially drawn to projects that combine data with purpose, whether that�
 
 </div>
 
----
+
 
 _Thanks for visiting – I’m always open to new opportunities, collaborations, and discoveries._ ✨
