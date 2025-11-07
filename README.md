@@ -27,7 +27,7 @@ I’m especially drawn to projects that combine data with purpose, whether that�
 </p>
 
 
-## 🌟 Featured Projects
+## 🎓 TripleTen Data Science Projects  
 
 - [📡 Telecom Churn Prediction](https://github.com/rhicarmel/telecom-churn-prediction)  
   Built predictive models to identify high-risk customers, achieving an **AUC-ROC score of 0.85**.
@@ -37,6 +37,18 @@ I’m especially drawn to projects that combine data with purpose, whether that�
 
 - [⛽ Oil Well Profitability Prediction](https://github.com/rhicarmel/oil-well-prediction)  
   Developed ML models to predict **oil well success rates** for smarter investment decisions.
+
+- [🚖 Chicago Taxi SQL Analysis](https://github.com/rhicarmel/chicago-taxi-sql-analysis)  
+  Forecasted hourly taxi demand using **time series modeling** and **SQL-based feature engineering** (Best RMSE = 34.89).  
+
+## 📂 Repository Overview
+
+| Project | Description | Key Skills |
+|----------|--------------|-------------|
+| [Telecom Churn Prediction](https://github.com/rhicarmel/telecom-churn-prediction) | Customer retention modeling with ML (AUC-ROC 0.85) | Python, Scikit-Learn, Classification |
+| [Oil Well Prediction](https://github.com/rhicarmel/oil-well-prediction) | Predicting profitable oil wells | Regression, Feature Engineering |
+| [Human Age Prediction](https://github.com/rhicarmel/human-age-prediction) | CNN model for age estimation | Deep Learning, TensorFlow |
+| [Chicago Taxi SQL Analysis](https://github.com/rhicarmel/chicago-taxi-sql-analysis) | Time-series forecasting from raw SQL data | SQL, Time Series, EDA |
 
 ## 🤝 Let’s Connect
 
@@ -48,7 +60,7 @@ I’m especially drawn to projects that combine data with purpose, whether that�
 </div>
 
 
-## 📄 My Resume
+## 📥 My Resume
 
 <div align="center">
 
@@ -57,5 +69,5 @@ I’m especially drawn to projects that combine data with purpose, whether that�
 </div>
 
 
-
-_Thanks for visiting – I’m always open to new opportunities, collaborations, and discoveries._ ✨
+_Thanks for visiting – I’m always open to new opportunities, collaborations, and discoveries._ 💫
+<!-- keywords: data science, machine learning, deep learning, SQL, research data, predictive modeling, data visualization, python, pandas, numpy, time series, geospatial analytics -->
