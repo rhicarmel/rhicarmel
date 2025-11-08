@@ -29,16 +29,16 @@ I’m especially drawn to projects that combine data with purpose, whether that�
 
 ## 🎓 TripleTen Data Science Projects  
 
-- [📡 Telecom Churn Prediction](https://github.com/rhicarmel/telecom-churn-prediction)  
+- [Telecom Churn Prediction](https://github.com/rhicarmel/telecom-churn-prediction)  
   Built predictive models to identify high-risk customers, achieving an **AUC-ROC score of 0.85**.
 
-- [🧑‍🎨 Human Age Prediction (Deep Learning)](https://github.com/rhicarmel/human-age-prediction)  
+- [Human Age Prediction (Deep Learning)](https://github.com/rhicarmel/human-age-prediction)  
   Trained a **CNN model** for age estimation with an **MAE of 7.1 years**.
 
-- [⛽ Oil Well Profitability Prediction](https://github.com/rhicarmel/oil-well-prediction)  
+- [Oil Well Profitability Prediction](https://github.com/rhicarmel/oil-well-prediction)  
   Developed ML models to predict **oil well success rates** for smarter investment decisions.
 
-- [🚖 Chicago Taxi SQL Analysis](https://github.com/rhicarmel/chicago-taxi-sql-analysis)  
+- [Chicago Taxi SQL Analysis](https://github.com/rhicarmel/chicago-taxi-sql-analysis)  
   Forecasted hourly taxi demand using **time series modeling** and **SQL-based feature engineering** (Best RMSE = 34.89).  
 
 ## 📂 Repository Overview
@@ -49,6 +49,9 @@ I’m especially drawn to projects that combine data with purpose, whether that�
 | [Oil Well Prediction](https://github.com/rhicarmel/oil-well-prediction) | Predicting profitable oil wells | Regression, Feature Engineering |
 | [Human Age Prediction](https://github.com/rhicarmel/human-age-prediction) | CNN model for age estimation | Deep Learning, TensorFlow |
 | [Chicago Taxi SQL Analysis](https://github.com/rhicarmel/chicago-taxi-sql-analysis) | Time-series forecasting from raw SQL data | SQL, Time Series, EDA |
+| [Exoplanet Candidate Project](https://github.com/rhicarmel/exoplanet-validation) | Machine learning pipeline for validating exoplanet candidates | Python, XGBoost, SHAP, Astroquery |
+
+<p align="center"><sub><em>🚧 Exoplanet Candidate Project is under active development — final notebooks coming soon.</em></sub></p>
 
 ## 🤝 Let’s Connect
 
