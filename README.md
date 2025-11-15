@@ -39,9 +39,12 @@ I’m especially drawn to projects that combine data with purpose, whether that�
   Developed ML models to predict **oil well success rates** for smarter investment decisions.
 
 - [Chicago Taxi SQL Analysis](https://github.com/rhicarmel/chicago-taxi-sql-analysis)  
-  Forecasted hourly taxi demand using **time series modeling** and **SQL-based feature engineering** (Best RMSE = 34.89).  
+  Forecasted hourly taxi demand using **time series modeling** and **SQL-based feature engineering** (Best RMSE = 34.89).
 
-## 📂 Project Overview
+- [Video Game Sales Analysis | Notion Project Article↗️](https://rhi222.notion.site/What-Makes-a-Video-Game-a-Best-Seller-A-Data-Science-Investigation-1ab2aee0caf980a4bf12d30e25e51a86)
+  Statistical exploration of global game sales with insights on platform trends, genre performance, and review impact.  
+
+## 📂 Project Repository Overview
 
 | Project | Description | Key Skills |
 |----------|--------------|-------------|
