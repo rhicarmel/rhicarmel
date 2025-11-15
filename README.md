@@ -41,7 +41,7 @@ I’m especially drawn to projects that combine data with purpose, whether that�
 - [Chicago Taxi SQL Analysis](https://github.com/rhicarmel/chicago-taxi-sql-analysis)  
   Forecasted hourly taxi demand using **time series modeling** and **SQL-based feature engineering** (Best RMSE = 34.89).  
 
-## 📂 Repository Overview
+## 📂 Project Overview
 
 | Project | Description | Key Skills |
 |----------|--------------|-------------|
