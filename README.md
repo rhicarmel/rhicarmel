@@ -49,7 +49,7 @@ I’m especially drawn to projects that combine data with purpose, whether that�
 | [Oil Well Prediction](https://github.com/rhicarmel/oil-well-prediction) | Predicting profitable oil wells | Regression, Feature Engineering |
 | [Human Age Prediction](https://github.com/rhicarmel/human-age-prediction) | CNN model for age estimation | Deep Learning, TensorFlow |
 | [Chicago Taxi SQL Analysis](https://github.com/rhicarmel/chicago-taxi-sql-analysis) | Time-series forecasting from raw SQL data | SQL, Time Series, EDA |
-| [Exoplanet Candidate Project](https://github.com/rhicarmel/exoplanet-validation) | Machine learning pipeline for validating exoplanet candidates | Python, XGBoost, SHAP, Astroquery |
+| [Exoplanet Candidates](https://github.com/rhicarmel/exoplanet-validation) | Machine learning pipeline for validating exoplanet candidates | Python, XGBoost, SHAP, Astroquery |
 
 <p align="center"><sub><em>🚧 Exoplanet Candidate Project is under active development — final notebooks coming soon.</em></sub></p>
 
