@@ -70,7 +70,7 @@ Iâ€™m especially drawn to projects that combine data with purpose, whether thatâ
 
 <div align="center">
 
-[![Resume](https://img.shields.io/badge/Download_Resume-PDF-4B8B3B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/rhicarmel/rhicarmel/raw/main/Rhiannon_Fillingham.pdf)
+[![Resume](https://img.shields.io/badge/Download_Resume-PDF-4B8B3B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/rhicarmel/rhicarmel/raw/main/Rhiannon%20Fillingham%20_%20Resume.pdf)
 
 </div>
 
