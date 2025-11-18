@@ -41,20 +41,22 @@ I’m especially drawn to projects that combine data with purpose, whether that�
 - [Chicago Taxi SQL Analysis](https://github.com/rhicarmel/chicago-taxi-sql-analysis)  
   Forecasted hourly taxi demand using **time series modeling** and **SQL-based feature engineering** (Best RMSE = 34.89).
 
-- [Video Game Sales Analysis | Notion Project Article↗️](https://rhi222.notion.site/What-Makes-a-Video-Game-a-Best-Seller-A-Data-Science-Investigation-1ab2aee0caf980a4bf12d30e25e51a86)
-  Statistical exploration of global game sales with insights on platform trends, genre performance, and review impact.  
+- [Machine Learning for Texts: Sentiment Classification](https://github.com/rhicarmel/machine-learning-texts)  
+  Built and compared NLP models (TF-IDF, LightGBM, BERT embeddings) for **sentiment classification** of movie reviews.
 
-## 📂 Project Repository Overview
+- [Video Game Sales Analysis | Notion Project Article↗️](https://rhi222.notion.site/What-Makes-a-Video-Game-a-Best-Seller-A-Data-Science-Investigation-1ab2aee0caf980a4bf12d30e25e51a86)  
+  Statistical exploration of global game sales with insights on platform trends, genre performance, and review impact.
+
+## 📂 Repository Overview
 
 | Project | Description | Key Skills |
 |----------|--------------|-------------|
-| [Telecom Churn Prediction](https://github.com/rhicarmel/telecom-churn-prediction) | Customer retention modeling with ML (AUC-ROC 0.85) | Python, Scikit-Learn, Classification |
-| [Oil Well Prediction](https://github.com/rhicarmel/oil-well-prediction) | Predicting profitable oil wells | Regression, Feature Engineering |
-| [Human Age Prediction](https://github.com/rhicarmel/human-age-prediction) | CNN model for age estimation | Deep Learning, TensorFlow |
-| [Chicago Taxi SQL Analysis](https://github.com/rhicarmel/chicago-taxi-sql-analysis) | Time-series forecasting from raw SQL data | SQL, Time Series, EDA |
-| [Exoplanet Candidates](https://github.com/rhicarmel/exoplanet-validation) | Machine learning pipeline for validating exoplanet candidates | Python, XGBoost, SHAP, Astroquery |
-
-<p align="center"><sub><em>🚧 Exoplanet Candidate Project is under active development — final notebooks coming soon.</em></sub></p>
+| 📡 [Telecom Churn Prediction](https://github.com/rhicarmel/telecom-churn-prediction) | Customer retention modeling with ML | Classification, Feature Engineering |
+| 🛢️ [Oil Well Prediction](https://github.com/rhicarmel/oil-well-prediction) | Predicting profitable oil wells | Regression, Business ML |
+| 👁️ [Human Age Prediction](https://github.com/rhicarmel/human-age-prediction) | CNN model for age estimation | Deep Learning |
+| 🚕 [Chicago Taxi SQL Analysis](https://github.com/rhicarmel/chicago-taxi-sql-analysis) | Demand forecasting from raw trip data | SQL, Time Series |
+| 🪐 [Exoplanet Candidates](https://github.com/rhicarmel/exoplanet-validation) | Exoplanet classification pipeline | Boosting, SHAP, Astronomy ML |
+| 💬 [Machine Learning for Texts](https://github.com/rhicarmel/machine-learning-texts) | Sentiment classification using NLP models | NLP, TF-IDF, Transformers |
 
 ## 🤝 Let’s Connect
 
