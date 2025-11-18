@@ -47,7 +47,7 @@ I’m especially drawn to projects that combine data with purpose, whether that�
 - [Video Game Sales Analysis | Notion Project Article↗️](https://rhi222.notion.site/What-Makes-a-Video-Game-a-Best-Seller-A-Data-Science-Investigation-1ab2aee0caf980a4bf12d30e25e51a86)  
   Statistical exploration of global game sales with insights on platform trends, genre performance, and review impact.
 
-## 📂 Repository Overview
+## 📂 My Repository Overview
 
 | Project | Description | Key Skills |
 |----------|--------------|-------------|
