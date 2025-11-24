@@ -1,4 +1,3 @@
-
 # Hi, I’m Rhi 👩🏻‍💻✨
 I’m an aspiring data scientist, a visionary at heart and an analyst by nature.
 
@@ -29,14 +28,14 @@ I’m especially drawn to projects that combine data with purpose, whether that�
 
 ## 🎓 TripleTen Data Science Projects  
 
-- [Telecom Churn Prediction](https://github.com/rhicarmel/telecom-churn-prediction)  
+- [Telecom Churn Prediction](https://github.com/rhicarmel/telecom-churn-prediction)  [![Streamlit App](https://img.shields.io/badge/Live_App-Streamlit-ff4b4b?style=flat-square&logo=streamlit&logoColor=white)](https://telecom-churn-prediction-rhi-222.streamlit.app/)  
   Built predictive models to identify high-risk customers, achieving an **AUC-ROC score of 0.85**.
 
+- [Oil Well Profitability Prediction](https://github.com/rhicarmel/oil-well-prediction)  [![Streamlit App](https://img.shields.io/badge/Live_App-Streamlit-ff4b4b?style=flat-square&logo=streamlit&logoColor=white)](https://oil-well-prediction-rhi-222.streamlit.app/)  
+  Developed ML models to predict **oil well success rates** for smarter investment decisions.
+    
 - [Human Age Prediction (Deep Learning)](https://github.com/rhicarmel/human-age-prediction)  
   Trained a **CNN model** for age estimation with an **MAE of 7.1 years**.
-
-- [Oil Well Profitability Prediction](https://github.com/rhicarmel/oil-well-prediction)  
-  Developed ML models to predict **oil well success rates** for smarter investment decisions.
 
 - [Chicago Taxi SQL Analysis](https://github.com/rhicarmel/chicago-taxi-sql-analysis)  
   Forecasted hourly taxi demand using **time series modeling** and **SQL-based feature engineering** (Best RMSE = 34.89).
@@ -44,7 +43,7 @@ I’m especially drawn to projects that combine data with purpose, whether that�
 - [Machine Learning for Texts: Sentiment Classification](https://github.com/rhicarmel/machine-learning-texts)  
   Built and compared NLP models (TF-IDF, LightGBM, BERT embeddings) for **sentiment classification** of movie reviews.
 
-- [Video Game Sales Analysis | Notion Project Article↗️](https://rhi222.notion.site/What-Makes-a-Video-Game-a-Best-Seller-A-Data-Science-Investigation-1ab2aee0caf980a4bf12d30e25e51a86)  
+- [**Video Game Sales Analysis**](https://rhi222.notion.site/What-Makes-a-Video-Game-a-Best-Seller-A-Data-Science-Investigation-1ab2aee0caf980a4bf12d30e25e51a86)  [![Notion](https://img.shields.io/badge/Open_Article-000000?style=for-the-badge&logo=notion&logoColor=white)](https://rhi222.notion.site/What-Makes-a-Video-Game-a-Best-Seller-A-Data-Science-Investigation-1ab2aee0caf980a4bf12d30e25e51a86)  
   Statistical exploration of global game sales with insights on platform trends, genre performance, and review impact.
 
 ## 📂 My Repository Overview
@@ -59,7 +58,6 @@ I’m especially drawn to projects that combine data with purpose, whether that�
 | 💬 [Machine Learning for Texts](https://github.com/rhicarmel/machine-learning-texts) | Sentiment classification using NLP models | NLP, TF-IDF, Transformers |
 
 ## 🤝 Let’s Connect
-
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-rhiannon.filli%40gmail.com-333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rhiannon.filli@gmail.com)
