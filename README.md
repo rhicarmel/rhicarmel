@@ -43,7 +43,7 @@ I’m especially drawn to projects that combine data with purpose, whether that�
 - [Machine Learning for Texts: Sentiment Classification](https://github.com/rhicarmel/machine-learning-texts)  
   Built and compared NLP models (TF-IDF, LightGBM, BERT embeddings) for **sentiment classification** of movie reviews.
 
-- [**Video Game Sales Analysis**](https://rhi222.notion.site/What-Makes-a-Video-Game-a-Best-Seller-A-Data-Science-Investigation-1ab2aee0caf980a4bf12d30e25e51a86)  [![Notion](https://img.shields.io/badge/Open_Article-000000?style=for-the-badge&logo=notion&logoColor=white)](https://rhi222.notion.site/What-Makes-a-Video-Game-a-Best-Seller-A-Data-Science-Investigation-1ab2aee0caf980a4bf12d30e25e51a86)  
+- [Video Game Sales Analysis (Project Article ↗)](https://rhi222.notion.site/What-Makes-a-Video-Game-a-Best-Seller-A-Data-Science-Investigation-1ab2aee0caf980a4bf12d30e25e51a86)  [![Notion](https://img.shields.io/badge/Open_Article-000000?style=for-the-badge&logo=notion&logoColor=white)](https://rhi222.notion.site/What-Makes-a-Video-Game-a-Best-Seller-A-Data-Science-Investigation-1ab2aee0caf980a4bf12d30e25e51a86)  
   Statistical exploration of global game sales with insights on platform trends, genre performance, and review impact.
 
 ## 📂 My Repository Overview
