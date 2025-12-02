@@ -1,17 +1,14 @@
 # Hi, I’m Rhi 👩🏻‍💻✨
-I’m an aspiring data scientist, a visionary at heart and an analyst by nature.
+I’m an aspiring data scientist who enjoys building clear, practical solutions with data. My work blends technical modeling with curiosity for scientific and creative domains, from environmental data and astronomy to computer vision and pattern analysis.
 
-I’m especially drawn to projects that combine data with purpose, whether that’s tracking climate change, mapping the cosmos, or making complex patterns easier to understand.
-
-
+I enjoy solving complex problems, turning data into insight, and developing projects that explore how humans and technology understand the world.
 
 ## 🌱 About Me
 
-- **Core Skills**: Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, Machine Learning (Supervised & Unsupervised), Deep Learning (CNNs), Data Visualization 
-- **Focus**: Data Science & Predictive Modeling  
-- **Currently Exploring**: Computer Vision, Time Series Forecasting, and NLP  
+- **Core Skills**: Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, Machine Learning, Deep Learning 
+- **Focus**: Data Science/Analyticts & Predictive Modeling  
+- **Strengths**: Clear analysis, pattern recognition, reproducible ML pipelines, and exploratory research  
 - **Location**: San Antonio, TX
-
 
 ## 🧰 Tech Stack
 
@@ -23,8 +20,9 @@ I’m especially drawn to projects that combine data with purpose, whether that�
   <img src="https://img.shields.io/badge/Scikit--Learn-f7931e?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-ff6f00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-00758f?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </p>
-
 
 ## 🎓 TripleTen Data Science Projects  
 
@@ -54,8 +52,8 @@ I’m especially drawn to projects that combine data with purpose, whether that�
 | 🛢️ [Oil Well Prediction](https://github.com/rhicarmel/oil-well-prediction) | Predicting profitable oil wells | Regression, Business ML |
 | 👁️ [Human Age Prediction](https://github.com/rhicarmel/human-age-prediction) | CNN model for age estimation | Deep Learning |
 | 🚕 [Chicago Taxi SQL Analysis](https://github.com/rhicarmel/chicago-taxi-sql-analysis) | Demand forecasting from raw trip data | SQL, Time Series |
-| 🪐 [Exoplanet Candidates](https://github.com/rhicarmel/exoplanet-validation) | Exoplanet classification pipeline | Boosting, SHAP, Astronomy ML |
 | 💬 [Machine Learning for Texts](https://github.com/rhicarmel/machine-learning-texts) | Sentiment classification using NLP models | NLP, TF-IDF, Transformers |
+| 🪐 [Exoplanet Candidates](https://github.com/rhicarmel/exoplanet-validation) | Exoplanet classification pipeline | Boosting, SHAP, Astronomy ML |
 
 ## 🤝 Let’s Connect
 <div align="center">
