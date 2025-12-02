@@ -29,13 +29,13 @@ I’m especially drawn to projects that combine data with purpose, whether that�
 ## 🎓 TripleTen Data Science Projects  
 
 - [Telecom Churn Prediction](https://github.com/rhicarmel/telecom-churn-prediction)  [![Streamlit App](https://img.shields.io/badge/Live_App-Streamlit-ff4b4b?style=flat-square&logo=streamlit&logoColor=white)](https://telecom-churn-prediction-rhi-222.streamlit.app/)  
-  Built predictive models to identify high-risk customers, achieving an **AUC-ROC score of 0.85**.
+  Built predictive models to identify high-risk customers, achieving an **AUC-ROC score of 0.845**.
 
 - [Oil Well Profitability Prediction](https://github.com/rhicarmel/oil-well-prediction)  [![Streamlit App](https://img.shields.io/badge/Live_App-Streamlit-ff4b4b?style=flat-square&logo=streamlit&logoColor=white)](https://oil-well-prediction-rhi-222.streamlit.app/)  
   Developed ML models to predict **oil well success rates** for smarter investment decisions.
     
 - [Human Age Prediction (Deep Learning)](https://github.com/rhicarmel/human-age-prediction)  
-  Trained a **CNN model** for age estimation with an **MAE of 7.1 years**.
+  Trained a **CNN model** for age estimation with an **MAE of ~7–8 years** on the full GPU benchmark run.
 
 - [Chicago Taxi SQL Analysis](https://github.com/rhicarmel/chicago-taxi-sql-analysis)  
   Forecasted hourly taxi demand using **time series modeling** and **SQL-based feature engineering** (Best RMSE = 34.89).
