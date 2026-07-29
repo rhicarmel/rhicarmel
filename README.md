@@ -1,14 +1,58 @@
-# Hi, I’m Rhi 👩🏻‍💻✨
-I’m an aspiring data scientist who enjoys building clear, practical solutions with data. My work blends technical modeling with curiosity for scientific and creative domains, from environmental data and astronomy to computer vision and pattern analysis.
+# Hi, I’m Rhi 👩🏻‍💻⟡ ݁₊
+I’m a data science practitioner who enjoys building clear, practical solutions with data. My work combines predictive modeling, exploratory analysis, and technical documentation with an interest in scientific, environmental, and public service applications.
 
-I enjoy solving complex problems, turning data into insight, and developing projects that explore how humans and technology understand the world.
+I enjoy investigating complex systems, translating data into understandable findings, and developing reproducible projects that support informed decision-making.
+
 
 ## 🌱 About Me
 
-- **Core Skills**: Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, Machine Learning, Deep Learning 
-- **Focus**: Data Science/Analyticts & Predictive Modeling  
-- **Strengths**: Clear analysis, pattern recognition, reproducible ML pipelines, and exploratory research  
-- **Location**: San Antonio, TX
+- **Core Skills:** Python, SQL, machine learning, statistical analysis, data visualization, and technical documentation
+- **Focus:** Applied data science, predictive modeling, exploratory research, and data-informed decision support
+- **Strengths:** Clear analysis, pattern recognition, reproducible workflows, model interpretation, and communicating technical findings
+- **Location:** San Antonio, Texas
+
+
+### Research & Analytical Interests:
+
+- Environmental and atmospheric data
+- Scientific and public-sector datasets
+- Interpretable machine learning
+- Geospatial and time-dependent analysis
+- Program evaluation and performance measurement
+- Data-informed operational decision-making
+- Reproducible research and technical documentation
+
+
+## 🔬 Independent Projects
+
+| Project | Description | Current Focus |
+|----------|-------------|---------------|
+| 🌪️ [Central Texas Atmospheric Anomalies](PROJECT-REPOSITORY-URL) | Investigating whether aerosol optical depth provides additional predictive information about tornado occurrence beyond conventional meteorological variables | Research design, literature review, and dataset evaluation |
+| 🪐 [Exoplanet Candidate Validation](https://github.com/rhicarmel/exoplanet-validation) | Classifying and interpreting exoplanet candidates using orbital and stellar data from the NASA Exoplanet Archive | Logistic Regression, XGBoost, calibration, and SHAP |
+
+> These repositories are under active development. Their documentation distinguishes completed work, current development, planned methods, and results that have not yet been established.
+
+
+## 🎓 TripleTen Data Science Projects  
+
+- 📡 [Telecom Churn Prediction](https://github.com/rhicarmel/telecom-churn-prediction)  [![Streamlit App](https://img.shields.io/badge/Live_App-Streamlit-ff4b4b?style=flat-square&logo=streamlit&logoColor=white)](https://telecom-churn-prediction-rhi-222.streamlit.app/)  
+  Built predictive models to identify high-risk customers, achieving an **AUC-ROC score of 0.845**.
+
+- 🛢️ [Oil Well Profitability Prediction](https://github.com/rhicarmel/oil-well-prediction)  [![Streamlit App](https://img.shields.io/badge/Live_App-Streamlit-ff4b4b?style=flat-square&logo=streamlit&logoColor=white)](https://oil-well-prediction-rhi-222.streamlit.app/)  
+  Developed ML models to predict **oil well success rates** for smarter investment decisions.
+    
+- 👁️ [Human Age Prediction (Deep Learning)](https://github.com/rhicarmel/human-age-prediction)  
+  Trained a **CNN model** for age estimation with an **MAE of ~7–8 years** on the full GPU benchmark run.
+
+- 🚕 [Chicago Taxi SQL Analysis](https://github.com/rhicarmel/chicago-taxi-sql-analysis)  
+  Forecasted hourly taxi demand using **time series modeling** and **SQL-based feature engineering** (Best RMSE = 34.89).
+
+- 💬 [Machine Learning for Texts: Sentiment Classification](https://github.com/rhicarmel/machine-learning-texts)  
+  Built and compared NLP models (TF-IDF, LightGBM, BERT embeddings) for **sentiment classification** of movie reviews.
+
+- 🎮 [Video Game Sales Analysis (Project Article ↗)](https://rhi222.notion.site/What-Makes-a-Video-Game-a-Best-Seller-A-Data-Science-Investigation-1ab2aee0caf980a4bf12d30e25e51a86)  [![Notion](https://img.shields.io/badge/Open_Article-000000?style=for-the-badge&logo=notion&logoColor=white)](https://rhi222.notion.site/What-Makes-a-Video-Game-a-Best-Seller-A-Data-Science-Investigation-1ab2aee0caf980a4bf12d30e25e51a86)  
+  Statistical exploration of global game sales with insights on platform trends, genre performance, and review impact.
+
 
 ## 🧰 Tech Stack
 
@@ -24,36 +68,6 @@ I enjoy solving complex problems, turning data into insight, and developing proj
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </p>
 
-## 🎓 TripleTen Data Science Projects  
-
-- [Telecom Churn Prediction](https://github.com/rhicarmel/telecom-churn-prediction)  [![Streamlit App](https://img.shields.io/badge/Live_App-Streamlit-ff4b4b?style=flat-square&logo=streamlit&logoColor=white)](https://telecom-churn-prediction-rhi-222.streamlit.app/)  
-  Built predictive models to identify high-risk customers, achieving an **AUC-ROC score of 0.845**.
-
-- [Oil Well Profitability Prediction](https://github.com/rhicarmel/oil-well-prediction)  [![Streamlit App](https://img.shields.io/badge/Live_App-Streamlit-ff4b4b?style=flat-square&logo=streamlit&logoColor=white)](https://oil-well-prediction-rhi-222.streamlit.app/)  
-  Developed ML models to predict **oil well success rates** for smarter investment decisions.
-    
-- [Human Age Prediction (Deep Learning)](https://github.com/rhicarmel/human-age-prediction)  
-  Trained a **CNN model** for age estimation with an **MAE of ~7–8 years** on the full GPU benchmark run.
-
-- [Chicago Taxi SQL Analysis](https://github.com/rhicarmel/chicago-taxi-sql-analysis)  
-  Forecasted hourly taxi demand using **time series modeling** and **SQL-based feature engineering** (Best RMSE = 34.89).
-
-- [Machine Learning for Texts: Sentiment Classification](https://github.com/rhicarmel/machine-learning-texts)  
-  Built and compared NLP models (TF-IDF, LightGBM, BERT embeddings) for **sentiment classification** of movie reviews.
-
-- [Video Game Sales Analysis (Project Article ↗)](https://rhi222.notion.site/What-Makes-a-Video-Game-a-Best-Seller-A-Data-Science-Investigation-1ab2aee0caf980a4bf12d30e25e51a86)  [![Notion](https://img.shields.io/badge/Open_Article-000000?style=for-the-badge&logo=notion&logoColor=white)](https://rhi222.notion.site/What-Makes-a-Video-Game-a-Best-Seller-A-Data-Science-Investigation-1ab2aee0caf980a4bf12d30e25e51a86)  
-  Statistical exploration of global game sales with insights on platform trends, genre performance, and review impact.
-
-## 📂 My Repository Overview
-
-| Project | Description | Key Skills |
-|----------|--------------|-------------|
-| 📡 [Telecom Churn Prediction](https://github.com/rhicarmel/telecom-churn-prediction) | Customer retention modeling with ML | Classification, Feature Engineering |
-| 🛢️ [Oil Well Prediction](https://github.com/rhicarmel/oil-well-prediction) | Predicting profitable oil wells | Regression, Business ML |
-| 👁️ [Human Age Prediction](https://github.com/rhicarmel/human-age-prediction) | CNN model for age estimation | Deep Learning |
-| 🚕 [Chicago Taxi SQL Analysis](https://github.com/rhicarmel/chicago-taxi-sql-analysis) | Demand forecasting from raw trip data | SQL, Time Series |
-| 💬 [Machine Learning for Texts](https://github.com/rhicarmel/machine-learning-texts) | Sentiment classification using NLP models | NLP, TF-IDF, Transformers |
-| 🪐 [Exoplanet Candidates](https://github.com/rhicarmel/exoplanet-validation) | Exoplanet classification pipeline | Boosting, SHAP, Astronomy ML |
 
 ## 🤝 Let’s Connect
 <div align="center">
