@@ -26,7 +26,7 @@ I enjoy investigating complex systems, translating data into understandable find
 
 | Project | Description | Current Focus |
 |----------|-------------|---------------|
-| 🌪️ [Central Texas Atmospheric Anomalies](PROJECT-REPOSITORY-URL) | Investigating whether aerosol optical depth provides additional predictive information about tornado occurrence beyond conventional meteorological variables | Research design, literature review, and dataset evaluation |
+| 🌪️ [Central Texas Atmospheric Anomalies](https://github.com/rhicarmel/central-texas-atmospheric-anomalies) | Investigating whether aerosol optical depth provides additional predictive information about tornado occurrence beyond conventional meteorological variables | Research design, literature review, and dataset evaluation |
 | 🪐 [Exoplanet Candidate Validation](https://github.com/rhicarmel/exoplanet-validation) | Classifying and interpreting exoplanet candidates using orbital and stellar data from the NASA Exoplanet Archive | Logistic Regression, XGBoost, calibration, and SHAP |
 
 > These repositories are under active development. Their documentation distinguishes completed work, current development, planned methods, and results that have not yet been established.
