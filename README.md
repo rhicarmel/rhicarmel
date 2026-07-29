@@ -3,8 +3,7 @@ I’m a data science practitioner who enjoys building clear, practical solutions
 
 I enjoy investigating complex systems, translating data into understandable findings, and developing reproducible projects that support informed decision-making.
 
-
-## 🌱 About Me
+## ⟡ About Me
 
 - **Core Skills:** Python, SQL, machine learning, statistical analysis, data visualization, and technical documentation
 - **Focus:** Applied data science, predictive modeling, exploratory research, and data-informed decision support
@@ -22,8 +21,8 @@ I enjoy investigating complex systems, translating data into understandable find
 - Data-informed operational decision-making
 - Reproducible research and technical documentation
 
-
-## 🔬 Independent Projects
+---
+## ⟡ Independent Projects
 
 | Project | Description | Current Focus |
 |----------|-------------|---------------|
@@ -31,9 +30,9 @@ I enjoy investigating complex systems, translating data into understandable find
 | 🪐 [Exoplanet Candidate Validation](https://github.com/rhicarmel/exoplanet-validation) | Classifying and interpreting exoplanet candidates using orbital and stellar data from the NASA Exoplanet Archive | Logistic Regression, XGBoost, calibration, and SHAP |
 
 > These repositories are under active development. Their documentation distinguishes completed work, current development, planned methods, and results that have not yet been established.
+---
 
-
-## 🎓 TripleTen Data Science Projects  
+## ⟡ TripleTen Data Science Projects  
 
 - 📡 [Telecom Churn Prediction](https://github.com/rhicarmel/telecom-churn-prediction)  [![Streamlit App](https://img.shields.io/badge/Live_App-Streamlit-ff4b4b?style=flat-square&logo=streamlit&logoColor=white)](https://telecom-churn-prediction-rhi-222.streamlit.app/)  
   Built predictive models to identify high-risk customers, achieving an **AUC-ROC score of 0.845**.
@@ -52,9 +51,9 @@ I enjoy investigating complex systems, translating data into understandable find
 
 - 🎮 [Video Game Sales Analysis (Project Article ↗)](https://rhi222.notion.site/What-Makes-a-Video-Game-a-Best-Seller-A-Data-Science-Investigation-1ab2aee0caf980a4bf12d30e25e51a86)  [![Notion](https://img.shields.io/badge/Open_Article-000000?style=for-the-badge&logo=notion&logoColor=white)](https://rhi222.notion.site/What-Makes-a-Video-Game-a-Best-Seller-A-Data-Science-Investigation-1ab2aee0caf980a4bf12d30e25e51a86)  
   Statistical exploration of global game sales with insights on platform trends, genre performance, and review impact.
+---
 
-
-## 🧰 Tech Stack
+## ⟡ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
@@ -69,7 +68,7 @@ I enjoy investigating complex systems, translating data into understandable find
 </p>
 
 
-## 🤝 Let’s Connect
+## ⟡ Let’s Connect
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-rhiannon.filli%40gmail.com-333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rhiannon.filli@gmail.com)
@@ -78,7 +77,7 @@ I enjoy investigating complex systems, translating data into understandable find
 </div>
 
 
-## 📥 My Resume
+## ⟡ My Resume
 
 <div align="center">
 
